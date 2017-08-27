@@ -1,0 +1,14 @@
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders-EF_MVVM.4.csprojResolveAssemblyReference.cache
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\ProductsView.baml
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\MainWindow.baml
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\OrdersView.baml
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\App.baml
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\ProductsView.g.cs
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\MainWindow.g.cs
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\View\OrdersView.g.cs
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\App.g.cs
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders-EF-MVVM_MarkupCompile.cache
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders-EF-MVVM.g.resources
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders.Properties.Resources.resources
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders-EF_MVVM.4.csproj.GenerateResource.Cache
+C:\c-sharp-Training\wpf-tutorial\obj\x86\Debug\Orders-EF-MVVM.exe.licenses
